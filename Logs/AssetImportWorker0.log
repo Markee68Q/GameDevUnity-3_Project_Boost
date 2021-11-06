@@ -144,3 +144,4 @@ Received Import Request.
 Start importing Assets/Rocket.cs using Guid(4fe84a1dd65fc45af9da8e6eed4ca801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30160a5ba07be62ebd1777feeaecbc44') in 0.006779 seconds 
   Import took 0.009229 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
