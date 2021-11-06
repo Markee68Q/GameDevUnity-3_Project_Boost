@@ -1,4 +1,4 @@
-
+## This repository is a training course of learning how to use GIT and Github. I'm currently using https://www.gamedev.tv/
 ## Background
 This is the [Complete Unity C# Developer 3D](http://gdev.tv/cu2github), the long-awaited sequel to the [Complete Unity C# Developer 2D](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques,. You will benefit from the fact we have already taught over 350,000 students game development, many shipping commercial games as a result.
 
